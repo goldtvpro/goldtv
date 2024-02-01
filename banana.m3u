@@ -87,7 +87,7 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPh9wEKHIEXJ3lbR6RTeAYg/ts
 https://edge2.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 xui-id="72" tvg-id="" tvg-name="TRUE 2 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="SPORT",TVE Spain
 https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 1" tvg-logo=" " group-title="SPORT",BEIN 1
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein1.png" group-title="SPORT",BEIN 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo=" " group-title="SPORT",BEIN 2
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png" group-title="SPORT",BEIN 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
