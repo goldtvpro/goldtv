@@ -2,5 +2,5 @@
     "versionCode": 540,
     "versionName": "v2.4",
     "changelog": ["gold tv pro as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.4_b540.apk"
+    "downloadUrl": "https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/G_LD_TV_PRO.apk"
 }
