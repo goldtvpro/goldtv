@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA (Test)" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="MYANMAR",BUDDHA (Test)
+#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA (Test)" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="BUDDHA",BUDDHA (Test)
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
-#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="MYANMAR",မဟာဗောဓိ
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="BUDDHA",မဟာဗောဓိ
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="MYANMAR",MRTV HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
@@ -12,7 +12,7 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLPffZJAU1xU0dRl3W2MPz0/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMuz_hizrZD7BH2pdhovsW0/ts
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MRTV-4 HD" tvg-logo="https://www.dropbox.com/scl/fi/gebboxqlfnw01xb3aje8a/HD_20231004_212955_0000.jpg?rlkey=4l12o3fh74sbufm5p4pjvs9fp&dl=1" group-title="MYANMAR",MRTV-4 HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEOQaldLwHUSfk0rAF1TIWw/ts
-#EXTINF:-1 xui-id="6559" tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="MYANMAR,MRTV-4
+#EXTINF:-1 xui-id="6559" tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="MYANMAR",MRTV-4
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKyUU5inl0F_3LywQqmuMP8/ts
 #EXTINF:-1 xui-id="4" tvg-id="" tvg-name="Channel7 HD" tvg-logo="https://www.dropbox.com/scl/fi/xoyy158jvhsjh7l254esq/20231218_144203_0000.jpg?rlkey=r30rglbd39cpd2f9sk4ykjid3&dl=1" group-title="MYANMAR",Channel7 HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIj4FQuE8M4NumvgLORqi70/ts
@@ -26,7 +26,7 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLNKllQLxmnJAK04Dc3-n-8/ts
 #EXTINF:-1 xui-id="24" tvg-id="" tvg-name="HTV" tvg-logo="https://www.dropbox.com/scl/fi/brhf6x1cdwsyc8e3luv9p/20231216_193206_0000.jpg?rlkey=ygvati5xc0fs87swd0jbjbr2s&dl=1" group-title="MYANMAR",HTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKchgJW2_BIpDRGXLWkCD_Y/ts
-#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="MYANMAR,YTV
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="MYANMAR",YTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="MNTV" tvg-logo="https://www.dropbox.com/scl/fi/t3600ga5zyfdpaowkkr9j/20231205_175238_0000.jpg?rlkey=g75hqqstzb54s9t65s71p5rm8&dl=1" group-title="MYANMAR",MNTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLDScsCKDJf0xr55UFaKdfg/ts
@@ -54,7 +54,7 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHneg4oFwOctzvsOVGYER8/ts
 #EXTINF:-1 xui-id="1277" tvg-id="" tvg-name="Movies 4" tvg-logo="https://www.dropbox.com/scl/fi/n3e4zgleearpgqzszo1yo/Untitled-design_20231030_220402_0000.jpg?rlkey=vreji05r7qv2o7k78jyzoao8i&dl=1" group-title="MYANMAR MOVIE",Movies 4
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
-#EXTINF:-1 xui-id="1278" tvg-id="" tvg-name="Movies 5" tvg-logo="https://www.dropbox.com/scl/fi/ban1bijkxu8nn2ltnudu7/Untitled-design_20231030_222202_0000.jpg?rlkey=iopinte0j0046jcw34ugtpwjd&dl=1" group-title="MYANMAR MOVIE,Movies 5
+#EXTINF:-1 xui-id="1278" tvg-id="" tvg-name="Movies 5" tvg-logo="https://www.dropbox.com/scl/fi/ban1bijkxu8nn2ltnudu7/Untitled-design_20231030_222202_0000.jpg?rlkey=iopinte0j0046jcw34ugtpwjd&dl=1" group-title="MYANMAR MOVIE",Movies 5
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
 #EXTINF:-1 xui-id="7073" tvg-id="" tvg-name="Movies 6" tvg-logo="https://www.dropbox.com/scl/fi/bberkamn10s62qq6pqwzd/Untitled-design_20231214_191846_0000.jpg?rlkey=mkpye86kd2wru4zp1ieachoh8&dl=1" group-title="MYANMAR MOVIE",Movies 6
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
