@@ -2,11 +2,11 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA (Test)" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="MYANMAR",BUDDHA (Test)
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
-#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="Free Channels (MM)",မဟာဗောဓိ
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="MYANMAR",မဟာဗောဓိ
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="MYANMAR",MRTV HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
-#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MWD HD" tvg-logo="https://www.dropbox.com/scl/fi/wx8zky8p85yn2m6vtrnvg/Untitled-design_20231004_183816_0000.jpg?rlkey=ok21mekckdkwfdbs295rdalp8&dl=1" group-title="Free Channels (MM)",MWD HD
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MWD HD" tvg-logo="https://www.dropbox.com/scl/fi/wx8zky8p85yn2m6vtrnvg/Untitled-design_20231004_183816_0000.jpg?rlkey=ok21mekckdkwfdbs295rdalp8&dl=1" group-title="MYANMAR",MWD HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLPffZJAU1xU0dRl3W2MPz0/ts
 #EXTINF:-1 xui-id="20" tvg-id="" tvg-name="MRTV News HD" tvg-logo="https://www.dropbox.com/scl/fi/8k64edo3tzqwi12axm2wb/20231004_194011_0000.jpg?rlkey=bb6g295vwqzi966d55492iogq&dl=1" group-title="MYANMAR",MRTV News HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMuz_hizrZD7BH2pdhovsW0/ts
@@ -85,7 +85,7 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPh9wEKHIEXJ3lbR6RTeAYg/ts
 
 #EXTINF:-1 xui-id="71" tvg-id="" tvg-name="TRUE 1 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="SPORT",TRUE 1 HD
 https://edge2.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="TRUE 2 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="News",TVE Spain
+#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="TRUE 2 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="SPORT",TVE Spain
 https://edge2.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 1" tvg-logo=" " group-title="SPORT",BEIN 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
