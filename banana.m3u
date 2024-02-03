@@ -100,4 +100,13 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 
+#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="TRUE 1 HD" tvg-logo="https://github.com/goldtvpro/goldtvpro/blob/main/Logo.png?raw=true" group-title="LIVE EPL",1 LIVE EPL
+https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1706971028-0-0-9704b5f9b7b03e5f1e181eaf8727e7c4
+#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="TRUE 2 HD" tvg-logo="https://github.com/goldtvpro/goldtvpro/blob/main/Logo.png?raw=true" group-title="LIVE EPL",2 LIVE EPL
+https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1706971028-0-0-9704b5f9b7b03e5f1e181eaf8727e7c4
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 1" tvg-logo="https://github.com/goldtvpro/goldtvpro/blob/main/Logo.png?raw=true" group-title="LIVE EPL",3 LIVE EPL
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="https://github.com/goldtvpro/goldtvpro/blob/main/Logo.png?raw=true" group-title="LIVE EPL",4 LIVE EPL
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
 
