@@ -4,6 +4,13 @@
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="BUDDHA",မဟာဗောဓိ
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
+
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="M Entertainment" tvg-logo="https://www.dropbox.com/scl/fi/l9d6hxj1ndz4lj5nz9qdm/dd-g_20231205_175617_0000.jpg?rlkey=45rm7ut4623nv9f1o9ebzq07f&dl=1" group-title="အကယ်ဒမီ",M Entertainment
+http://5a13fe32ef748.streamlock.net:80/mmplay/mrtv-entertainment/chunklist_w576687589.m3u8
+#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="5 Plus" tvg-logo="https://www.dropbox.com/scl/fi/7z4h7mas50f3ynangfznc/dd-g_20231205_175939_0000.jpg?rlkey=i0x563qw8c0l26ziblem7q9fv&dl=1" group-title="အကယ်ဒမီ",5 Plus
+http://5a13fe32ef748.streamlock.net:80/mmplay/5plus/chunklist_w1454452558.m3u8
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="Channel7 HD" tvg-logo="https://www.dropbox.com/scl/fi/xoyy158jvhsjh7l254esq/20231218_144203_0000.jpg?rlkey=r30rglbd39cpd2f9sk4ykjid3&dl=1" group-title="အကယ်ဒမီ",Channel7 HD
+http://ppradio.b-cdn.net:80/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
 #EXTINF:-1 xui-id="15" tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="MYANMAR",MRTV HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
 #EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MWD HD" tvg-logo="https://www.dropbox.com/scl/fi/wx8zky8p85yn2m6vtrnvg/Untitled-design_20231004_183816_0000.jpg?rlkey=ok21mekckdkwfdbs295rdalp8&dl=1" group-title="MYANMAR",MWD HD
