@@ -1,619 +1,231 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA (Test)" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="BUDDHA",BUDDHA (Test)
+#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="1-BUDDHA",BUDDHA
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
-#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="BUDDHA",မဟာဗောဓိ
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.dropbox.com/scl/fi/avz4slmsli2sgcttoz9om/Untitled-design_20231012_132254_0000.jpg?rlkey=rerejl55791tptvifnu0ikuk5&dl=1" group-title="1-BUDDHA",မဟာဗောဓိ
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
 
  
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="MYANMAR",MRTV HD
+#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="MRTV HD" tvg-logo="https://www.dropbox.com/scl/fi/bits5up5rzf1w8x2g0t49/20231004_192925_0000.jpg?rlkey=ux1mspv33u2cw7dbcnkye67be&dl=1" group-title="2-FREE MM",MRTV HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
-#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MWD HD" tvg-logo="https://www.dropbox.com/scl/fi/wx8zky8p85yn2m6vtrnvg/Untitled-design_20231004_183816_0000.jpg?rlkey=ok21mekckdkwfdbs295rdalp8&dl=1" group-title="MYANMAR",MWD HD
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="MWD HD" tvg-logo="https://www.dropbox.com/scl/fi/wx8zky8p85yn2m6vtrnvg/Untitled-design_20231004_183816_0000.jpg?rlkey=ok21mekckdkwfdbs295rdalp8&dl=1" group-title="2-FREE MM",MWD HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLPffZJAU1xU0dRl3W2MPz0/ts
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="MRTV News HD" tvg-logo="https://www.dropbox.com/scl/fi/8k64edo3tzqwi12axm2wb/20231004_194011_0000.jpg?rlkey=bb6g295vwqzi966d55492iogq&dl=1" group-title="MYANMAR",MRTV News HD
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="MRTV News HD" tvg-logo="https://www.dropbox.com/scl/fi/8k64edo3tzqwi12axm2wb/20231004_194011_0000.jpg?rlkey=bb6g295vwqzi966d55492iogq&dl=1" group-title="2-FREE MM",MRTV News HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMuz_hizrZD7BH2pdhovsW0/ts
-#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MRTV-4 HD" tvg-logo="https://www.dropbox.com/scl/fi/gebboxqlfnw01xb3aje8a/HD_20231004_212955_0000.jpg?rlkey=4l12o3fh74sbufm5p4pjvs9fp&dl=1" group-title="MYANMAR",MRTV-4 HD
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MRTV-4 HD" tvg-logo="https://www.dropbox.com/scl/fi/gebboxqlfnw01xb3aje8a/HD_20231004_212955_0000.jpg?rlkey=4l12o3fh74sbufm5p4pjvs9fp&dl=1" group-title="2-FREE MM",MRTV-4 HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEOQaldLwHUSfk0rAF1TIWw/ts
-#EXTINF:-1 xui-id="6559" tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="MYANMAR",MRTV-4
+#EXTINF:-1 xui-id="6559" tvg-id="" tvg-name="MRTV-4" tvg-logo="https://www.dropbox.com/scl/fi/9p87vkvs80undv8egc6df/dd-g_20231204_182715_0000.jpg?rlkey=vrob2d478gri9q9ymc8ym1d1z&dl=1" group-title="2-FREE MM",MRTV-4
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKyUU5inl0F_3LywQqmuMP8/ts
-#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="Channel7 HD" tvg-logo="https://www.dropbox.com/scl/fi/xoyy158jvhsjh7l254esq/20231218_144203_0000.jpg?rlkey=r30rglbd39cpd2f9sk4ykjid3&dl=1" group-title="MYANMAR",Channel7 HD
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="Channel7 HD" tvg-logo="https://www.dropbox.com/scl/fi/xoyy158jvhsjh7l254esq/20231218_144203_0000.jpg?rlkey=r30rglbd39cpd2f9sk4ykjid3&dl=1" group-title="2-FREE MM",Channel7 HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIj4FQuE8M4NumvgLORqi70/ts
-#EXTINF:-1 xui-id="6560" tvg-id="" tvg-name="Channel7" tvg-logo="https://www.dropbox.com/scl/fi/ub1d1vnemb6bo4yy1o2et/FB_IMG_1701691210488.jpg?rlkey=yt7jceoh02s2ku60y0hd3u1ld&dl=1" group-title="MYANMAR",Channel7
+#EXTINF:-1 xui-id="6560" tvg-id="" tvg-name="Channel7" tvg-logo="https://www.dropbox.com/scl/fi/ub1d1vnemb6bo4yy1o2et/FB_IMG_1701691210488.jpg?rlkey=yt7jceoh02s2ku60y0hd3u1ld&dl=1" group-title="2-FREE MM",Channel7
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHyKvh_SMG8KVdtg_SfuzWQ/ts
-#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="Channel K HD" tvg-logo="https://www.dropbox.com/scl/fi/mblrvp6ans4cwnltdmrvb/dd-g_20231204_182841_0000.jpg?rlkey=xw1orf9ms08pvzusirn0y5cl5&dl=1" group-title="MYANMAR",Channel K HD
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="Channel K HD" tvg-logo="https://www.dropbox.com/scl/fi/mblrvp6ans4cwnltdmrvb/dd-g_20231204_182841_0000.jpg?rlkey=xw1orf9ms08pvzusirn0y5cl5&dl=1" group-title="2-FREE MM",Channel K HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOh53p-3GB_U5VSPyN6W7YU/ts
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="Fortune HD" tvg-logo="https://www.dropbox.com/scl/fi/2r7n9xmkij225kpfvu6iu/dd-g_20231120_232059_0000.jpg?rlkey=qdpfxcmngwmns1htsdu73d863&dl=1" group-title="MYANMAR",Fortune HD
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="Fortune HD" tvg-logo="https://www.dropbox.com/scl/fi/2r7n9xmkij225kpfvu6iu/dd-g_20231120_232059_0000.jpg?rlkey=qdpfxcmngwmns1htsdu73d863&dl=1" group-title="2-FREE MM",Fortune HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="HTV Sports" tvg-logo="https://www.dropbox.com/scl/fi/l3um8bs1eqb7v61dr5rhz/20231216_193401_0000.jpg?rlkey=m3siozl1gpjvwotgl0be2bl27&dl=1" group-title="MYANMAR",HTV Sports
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="HTV Sports" tvg-logo="https://www.dropbox.com/scl/fi/l3um8bs1eqb7v61dr5rhz/20231216_193401_0000.jpg?rlkey=m3siozl1gpjvwotgl0be2bl27&dl=1" group-title="2-FREE MM",HTV Sports
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLNKllQLxmnJAK04Dc3-n-8/ts
-#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="HTV" tvg-logo="https://www.dropbox.com/scl/fi/brhf6x1cdwsyc8e3luv9p/20231216_193206_0000.jpg?rlkey=ygvati5xc0fs87swd0jbjbr2s&dl=1" group-title="MYANMAR",HTV
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="HTV" tvg-logo="https://www.dropbox.com/scl/fi/brhf6x1cdwsyc8e3luv9p/20231216_193206_0000.jpg?rlkey=ygvati5xc0fs87swd0jbjbr2s&dl=1" group-title="2-FREE MM",HTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKchgJW2_BIpDRGXLWkCD_Y/ts
-#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="MYANMAR",YTV
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="YTV" tvg-logo="https://www.dropbox.com/scl/fi/y4mo74ri27f2ncxusgbyb/dd-g_20231204_183856_0000.jpg?rlkey=xzluiukaj4uwisgk8n0lr7uq0&dl=1" group-title="2-FREE MM",YTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
-#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="MNTV" tvg-logo="https://www.dropbox.com/scl/fi/t3600ga5zyfdpaowkkr9j/20231205_175238_0000.jpg?rlkey=g75hqqstzb54s9t65s71p5rm8&dl=1" group-title="MYANMAR",MNTV
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="MNTV" tvg-logo="https://www.dropbox.com/scl/fi/t3600ga5zyfdpaowkkr9j/20231205_175238_0000.jpg?rlkey=g75hqqstzb54s9t65s71p5rm8&dl=1" group-title="2-FREE MM",MNTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLDScsCKDJf0xr55UFaKdfg/ts
-#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="Channel 9" tvg-logo="https://www.dropbox.com/scl/fi/p60ob2ve97r6o2iwcxub4/dd-g_20231209_184131_0000.jpg?rlkey=1qeafutvqpxpjrdl0p8az0czx&dl=1" group-title="MYANMAR",Channel 9
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="Channel 9" tvg-logo="https://www.dropbox.com/scl/fi/p60ob2ve97r6o2iwcxub4/dd-g_20231209_184131_0000.jpg?rlkey=1qeafutvqpxpjrdl0p8az0czx&dl=1" group-title="2-FREE MM",Channel 9
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
-#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="M Entertainment" tvg-logo="https://www.dropbox.com/scl/fi/l9d6hxj1ndz4lj5nz9qdm/dd-g_20231205_175617_0000.jpg?rlkey=45rm7ut4623nv9f1o9ebzq07f&dl=1" group-title="MYANMAR",M Entertainment
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="M Entertainment" tvg-logo="https://www.dropbox.com/scl/fi/l9d6hxj1ndz4lj5nz9qdm/dd-g_20231205_175617_0000.jpg?rlkey=45rm7ut4623nv9f1o9ebzq07f&dl=1" group-title="2-FREE MM",M Entertainment
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPRDyMv4aiUl7pvgUNFAzws/ts
-#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="5 Plus" tvg-logo="https://www.dropbox.com/scl/fi/7z4h7mas50f3ynangfznc/dd-g_20231205_175939_0000.jpg?rlkey=i0x563qw8c0l26ziblem7q9fv&dl=1" group-title="MYANMAR",5 Plus
+#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="5 Plus" tvg-logo="https://www.dropbox.com/scl/fi/7z4h7mas50f3ynangfznc/dd-g_20231205_175939_0000.jpg?rlkey=i0x563qw8c0l26ziblem7q9fv&dl=1" group-title="2-FREE MM",5 Plus
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="MYANMAR MOVIE",Mahar HD
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="Mahar HD" tvg-logo="https://www.dropbox.com/scl/fi/4rmyng80e7sc5o3nq0o7x/20231216_194604_0000.jpg?rlkey=6cva4cbkb1uzi67lb6mlakilm&dl=1" group-title="3-MM MOVIE",Mahar HD
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
-#EXTINF:-1 xui-id="6547" tvg-id="" tvg-name="MM Movies 1" tvg-logo="https://www.dropbox.com/scl/fi/tdt2rbd076s1ypsuibw8s/20231123_175636_0000.jpg?rlkey=ybpk6gh6jl8qqu8kzs3r8a612&dl=1" group-title="MYANMAR MOVIE",MM Movies 1
+#EXTINF:-1 xui-id="6547" tvg-id="" tvg-name="MM Movies 1" tvg-logo="https://www.dropbox.com/scl/fi/tdt2rbd076s1ypsuibw8s/20231123_175636_0000.jpg?rlkey=ybpk6gh6jl8qqu8kzs3r8a612&dl=1" group-title="3-MM MOVIE",MM Movies 1
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdADnS9t1VZTHyg9SFGMBHaA/ts
-#EXTINF:-1 xui-id="6548" tvg-id="" tvg-name="MM Movies 2" tvg-logo="https://www.dropbox.com/scl/fi/579ap0tweln7y9czwh5d7/20231123_175753_0000.jpg?rlkey=wk2e3uowock05685tw0ev971n&dl=1" group-title="MYANMAR MOVIE",MM Movies 2
+#EXTINF:-1 xui-id="6548" tvg-id="" tvg-name="MM Movies 2" tvg-logo="https://www.dropbox.com/scl/fi/579ap0tweln7y9czwh5d7/20231123_175753_0000.jpg?rlkey=wk2e3uowock05685tw0ev971n&dl=1" group-title="3-MM MOVIE",MM Movies 2
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
-#EXTINF:-1 xui-id="6549" tvg-id="" tvg-name="MM Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/1sjn4a78z8f5j1owpbhn1/20231209_163817_0000.png?rlkey=q54c3vaofqzjpf6ttw5185zxy&dl=1" group-title="MYANMAR MOVIE",MM Movies 3
+#EXTINF:-1 xui-id="6549" tvg-id="" tvg-name="MM Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/1sjn4a78z8f5j1owpbhn1/20231209_163817_0000.png?rlkey=q54c3vaofqzjpf6ttw5185zxy&dl=1" group-title="3-MM MOVIE",MM Movies 3
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkzXKxtTsz_zIzblIf_kP0/ts
-#EXTINF:-1 xui-id="6550" tvg-id="" tvg-name="MM Movies 4" tvg-logo="https://www.dropbox.com/scl/fi/zn8pqmcuwrv8n18dpu5j5/20231209_174517_0000.jpg?rlkey=1x6vnx1chs9xm1fye7mcio0z1&dl=1" group-title="MYANMAR MOVIE",MM Movies 4
+#EXTINF:-1 xui-id="6550" tvg-id="" tvg-name="MM Movies 4" tvg-logo="https://www.dropbox.com/scl/fi/zn8pqmcuwrv8n18dpu5j5/20231209_174517_0000.jpg?rlkey=1x6vnx1chs9xm1fye7mcio0z1&dl=1" group-title="3-MM MOVIE",MM Movies 4
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCH3RGoJkklNBTnHIFgSXKw/ts
-#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="Movies 1" tvg-logo="https://www.dropbox.com/scl/fi/r7exz8gumy4rza6g06wgp/Untitled-design_20231030_215448_0000.jpg?rlkey=fpesovoui5z793pxj6ed0xj9o&dl=1" group-title="MYANMAR MOVIE",Movies 1
+#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="Movies 1" tvg-logo="https://www.dropbox.com/scl/fi/r7exz8gumy4rza6g06wgp/Untitled-design_20231030_215448_0000.jpg?rlkey=fpesovoui5z793pxj6ed0xj9o&dl=1" group-title="3-MM MOVIE",Movies 1
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
-#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="Movies 2" tvg-logo="https://www.dropbox.com/scl/fi/h0r5uenkcnecmd8cb4fl4/Untitled-design_20231030_215727_0000.jpg?rlkey=v7njzdew0h8uf7y6im22nw9r2&dl=1" group-title="MYANMAR MOVIE",Movies 2
+#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="Movies 2" tvg-logo="https://www.dropbox.com/scl/fi/h0r5uenkcnecmd8cb4fl4/Untitled-design_20231030_215727_0000.jpg?rlkey=v7njzdew0h8uf7y6im22nw9r2&dl=1" group-title="3-MM MOVIE",Movies 2
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
-#EXTINF:-1 xui-id="1236" tvg-id="" tvg-name="Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/a2bbww3pwqbfnda88elyl/Untitled-design_20231030_220129_0000.jpg?rlkey=3x2yhojyyvv0kbh40tuxp9u5k&dl=1" group-title="MYANMAR MOVIE",Movies 3
+#EXTINF:-1 xui-id="1236" tvg-id="" tvg-name="Movies 3" tvg-logo="https://www.dropbox.com/scl/fi/a2bbww3pwqbfnda88elyl/Untitled-design_20231030_220129_0000.jpg?rlkey=3x2yhojyyvv0kbh40tuxp9u5k&dl=1" group-title="3-MM MOVIE",Movies 3
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHneg4oFwOctzvsOVGYER8/ts
-#EXTINF:-1 xui-id="1277" tvg-id="" tvg-name="Movies 4" tvg-logo="https://www.dropbox.com/scl/fi/n3e4zgleearpgqzszo1yo/Untitled-design_20231030_220402_0000.jpg?rlkey=vreji05r7qv2o7k78jyzoao8i&dl=1" group-title="MYANMAR MOVIE",Movies 4
+#EXTINF:-1 xui-id="1277" tvg-id="" tvg-name="Movies 4" tvg-logo="https://www.dropbox.com/scl/fi/n3e4zgleearpgqzszo1yo/Untitled-design_20231030_220402_0000.jpg?rlkey=vreji05r7qv2o7k78jyzoao8i&dl=1" group-title="3-MM MOVIE",Movies 4
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
-#EXTINF:-1 xui-id="1278" tvg-id="" tvg-name="Movies 5" tvg-logo="https://www.dropbox.com/scl/fi/ban1bijkxu8nn2ltnudu7/Untitled-design_20231030_222202_0000.jpg?rlkey=iopinte0j0046jcw34ugtpwjd&dl=1" group-title="MYANMAR MOVIE",Movies 5
+#EXTINF:-1 xui-id="1278" tvg-id="" tvg-name="Movies 5" tvg-logo="https://www.dropbox.com/scl/fi/ban1bijkxu8nn2ltnudu7/Untitled-design_20231030_222202_0000.jpg?rlkey=iopinte0j0046jcw34ugtpwjd&dl=1" group-title="3-MM MOVIE",Movies 5
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
-#EXTINF:-1 xui-id="7073" tvg-id="" tvg-name="Movies 6" tvg-logo="https://www.dropbox.com/scl/fi/bberkamn10s62qq6pqwzd/Untitled-design_20231214_191846_0000.jpg?rlkey=mkpye86kd2wru4zp1ieachoh8&dl=1" group-title="MYANMAR MOVIE",Movies 6
+#EXTINF:-1 xui-id="7073" tvg-id="" tvg-name="Movies 6" tvg-logo="https://www.dropbox.com/scl/fi/bberkamn10s62qq6pqwzd/Untitled-design_20231214_191846_0000.jpg?rlkey=mkpye86kd2wru4zp1ieachoh8&dl=1" group-title="3-MM MOVIE",Movies 6
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
-#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="Movies 7" tvg-logo="https://www.dropbox.com/scl/fi/p0eugnuehqi4hxjfe3y1w/Untitled-design_20231224_155129_0000.jpg?rlkey=pbv26pc9zen612mfa9ptn3upl&dl=1" group-title="MYANMAR MOVIE",Movies 7
+#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="Movies 7" tvg-logo="https://www.dropbox.com/scl/fi/p0eugnuehqi4hxjfe3y1w/Untitled-design_20231224_155129_0000.jpg?rlkey=pbv26pc9zen612mfa9ptn3upl&dl=1" group-title="3-MM MOVIE",Movies 7
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
-#EXTINF:-1 xui-id="1279" tvg-id="" tvg-name="Series 1" tvg-logo="https://www.dropbox.com/scl/fi/inxz3lkyyt3ccz4419kd4/20231030_231950_0000.jpg?rlkey=7q6ca1ne4jbli8ih71akutbzb&dl=1" group-title="MYANMAR MOVIE",Series 1
+#EXTINF:-1 xui-id="1279" tvg-id="" tvg-name="Series 1" tvg-logo="https://www.dropbox.com/scl/fi/inxz3lkyyt3ccz4419kd4/20231030_231950_0000.jpg?rlkey=7q6ca1ne4jbli8ih71akutbzb&dl=1" group-title="3-MM MOVIE",Series 1
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
-#EXTINF:-1 xui-id="1280" tvg-id="" tvg-name="Series 2" tvg-logo="https://www.dropbox.com/scl/fi/n2zfo0dncp41nnhgs6jmq/20231030_232158_0000.jpg?rlkey=i1brkpkxn0cpf71ya9ocre1nh&dl=1" group-title="MYANMAR MOVIE",Series 2
+#EXTINF:-1 xui-id="1280" tvg-id="" tvg-name="Series 2" tvg-logo="https://www.dropbox.com/scl/fi/n2zfo0dncp41nnhgs6jmq/20231030_232158_0000.jpg?rlkey=i1brkpkxn0cpf71ya9ocre1nh&dl=1" group-title="3-MM MOVIE",Series 2
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
-#EXTINF:-1 xui-id="1281" tvg-id="" tvg-name="Cartoon 1" tvg-logo="https://www.dropbox.com/scl/fi/d9vxa9thtbu5k4v7ckxzy/20231030_233655_0000.jpg?rlkey=virdouw0h0j1r48wawc2n8e15&dl=1" group-title="MYANMAR MOVIE",Cartoon 1
+#EXTINF:-1 xui-id="1281" tvg-id="" tvg-name="Cartoon 1" tvg-logo="https://www.dropbox.com/scl/fi/d9vxa9thtbu5k4v7ckxzy/20231030_233655_0000.jpg?rlkey=virdouw0h0j1r48wawc2n8e15&dl=1" group-title="3-MM MOVIE",Cartoon 1
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
-#EXTINF:-1 xui-id="1282" tvg-id="" tvg-name="Cartoon 2" tvg-logo="https://www.dropbox.com/scl/fi/7iy1dvngqut6yi48b5t7y/20231030_233844_0000.jpg?rlkey=ethbadk0dm6syedv8hcj29f0r&dl=1" group-title="MYANMAR MOVIE",Cartoon 2
+#EXTINF:-1 xui-id="1282" tvg-id="" tvg-name="Cartoon 2" tvg-logo="https://www.dropbox.com/scl/fi/7iy1dvngqut6yi48b5t7y/20231030_233844_0000.jpg?rlkey=ethbadk0dm6syedv8hcj29f0r&dl=1" group-title="3-MM MOVIE",Cartoon 2
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
-#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="MWD Education" tvg-logo="https://www.dropbox.com/scl/fi/iuol3fsn9m0irewb5dgma/ENTERTAINMENT_20231004_204919_0000.jpg?rlkey=rfrrlq9b3kt1m9i2jqbyidd3m&dl=1" group-title="MYANMAR MOVIE",MWD Education
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="MWD Education" tvg-logo="https://www.dropbox.com/scl/fi/iuol3fsn9m0irewb5dgma/ENTERTAINMENT_20231004_204919_0000.jpg?rlkey=rfrrlq9b3kt1m9i2jqbyidd3m&dl=1" group-title="2-FREE MM",MWD Education
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOQsvtGZoYKv9OsQIpbfgZc/ts
-#EXTINF:-1 xui-id="7078" tvg-id="" tvg-name="MM EDU" tvg-logo="https://www.dropbox.com/scl/fi/gyfez4lq8awp186g8bh2l/dd-g_20231216_193557_0000.jpg?rlkey=rauuwqk6w1i8guoonwo4x1ipy&dl=1" group-title="MYANMAR MOVIE",MM EDU
+#EXTINF:-1 xui-id="7078" tvg-id="" tvg-name="MM EDU" tvg-logo="https://www.dropbox.com/scl/fi/gyfez4lq8awp186g8bh2l/dd-g_20231216_193557_0000.jpg?rlkey=rauuwqk6w1i8guoonwo4x1ipy&dl=1" group-title="2-FREE MM",MM EDU
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFq25hOqi_ozcvT_tTD5ln4/ts
-#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="MRTV NRC" tvg-logo="https://www.dropbox.com/scl/fi/5oylupa1o94mj8pxxg05t/ENTERTAINMENT_20231004_194708_0000.jpg?rlkey=ao6utcewescmlvrmzkqwmvrmn&dl=1" group-title="MYANMAR MOVIE",MRTV NRC
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="MRTV NRC" tvg-logo="https://www.dropbox.com/scl/fi/5oylupa1o94mj8pxxg05t/ENTERTAINMENT_20231004_194708_0000.jpg?rlkey=ao6utcewescmlvrmzkqwmvrmn&dl=1" group-title="2-FREE MM",MRTV NRC
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHfYQgx43k41QXbo0Fsjw8/ts
-#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="TVM" tvg-logo="https://www.dropbox.com/scl/fi/pk1bu7nkj7fu796x7quu0/dd-g_20231209_183043_0000.jpg?rlkey=nr4ssnxdnkwgkyhlotruuoqdy&dl=1" group-title="MYANMAR",TVM
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="TVM" tvg-logo="https://www.dropbox.com/scl/fi/pk1bu7nkj7fu796x7quu0/dd-g_20231209_183043_0000.jpg?rlkey=nr4ssnxdnkwgkyhlotruuoqdy&dl=1" group-title="2-FREE MM",TVM
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNJADPmINfD0bAEqDArl7wA/ts
-#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="Light" tvg-logo="https://www.dropbox.com/scl/fi/27iop4hjmoqdj1urlih6l/dd-g_20231212_184458_0000.jpg?rlkey=w74eg554opj63an8wlwiumzuy&dl=1" group-title="MYANMAR",Light
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="Light" tvg-logo="https://www.dropbox.com/scl/fi/27iop4hjmoqdj1urlih6l/dd-g_20231212_184458_0000.jpg?rlkey=w74eg554opj63an8wlwiumzuy&dl=1" group-title="2-FREE MM",Light
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCSbkpGolOk8nB0cLMxaycs/ts
-#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="MITV" tvg-logo="https://www.dropbox.com/scl/fi/svt0a2kr6jbyq9fzftsym/dd-g_20231209_183301_0000.jpg?rlkey=lfx952lpzei04cveo1lplv5sp&dl=1" group-title="MYANMAR",MITV
+#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="MITV" tvg-logo="https://www.dropbox.com/scl/fi/svt0a2kr6jbyq9fzftsym/dd-g_20231209_183301_0000.jpg?rlkey=lfx952lpzei04cveo1lplv5sp&dl=1" group-title="2-FREE MM",MITV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBAAw-bJuE1qtXoMVtd9lKg/ts
-#EXTINF:-1 xui-id="6520" tvg-id="" tvg-name="MVTV Myanmar" tvg-logo="https://www.dropbox.com/scl/fi/bwuqitmaoi95h8190v6w6/dd-g_20231113_205457_0000.jpg?rlkey=zxqj6k4uss8v7rf1byvylcxi9&dl=1" group-title="MYANMAR",MVTV Myanmar
+#EXTINF:-1 xui-id="6520" tvg-id="" tvg-name="MVTV Myanmar" tvg-logo="https://www.dropbox.com/scl/fi/bwuqitmaoi95h8190v6w6/dd-g_20231113_205457_0000.jpg?rlkey=zxqj6k4uss8v7rf1byvylcxi9&dl=1" group-title="2-FREE MM",MVTV Myanmar
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPh9wEKHIEXJ3lbR6RTeAYg/ts
 
-#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="TRUE 1 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="SPORT",1_TRUE 1 HD
+#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="TRUE 1 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="4-SPORT",1_TRUE 1 HD
 https://edge2.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="TRUE 2 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="SPORT",2_TRUE 1 HD
+#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="TRUE 2 HD" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="4-SPORT",2_TRUE 1 HD
 https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein1.png" group-title="SPORT",3_BEIN 1
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein1.png" group-title="4-SPORT",3_BEIN 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png" group-title="SPORT",4_BEIN 2
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png" group-title="4SPORT",4_BEIN 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="" group-title="SPORT",5_SPORT6
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="" group-title="4-SPORT",5_SPORT6
 http://ns5025893.ip-15-235-212.net:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm-JkvXBIQOh24XQXdW9Zne/ts
 
 
 -------------------------------------
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD " tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD 
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD " tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="4-Sports",Star Sports Select 1 HD 
 http://watchindia.net:8880/live/72695/24354/2292.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="4-Sports",Star Sports Select 2 HD
 http://watchindia.net:8880/live/72695/24354/1070.ts
-#EXTINF:-1 ,BT SPORT ESPN FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6563/index.m3u8
-#EXTINF:-1 ,BT SPORT 3 FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6564/index.m3u8
-#EXTINF:-1 ,BT SPORT 2 FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
-#EXTINF:-1 ,BT SPORT 1 FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
-#EXTINF:-1 ,Eleven Sports 3 PT
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7062/index.m3u8
-#EXTINF:-1 ,Eleven Sports 6 PT
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7064/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 1 US
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7322/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 2 US
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT EXTRA HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12074/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12075/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT FOOTBAL HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12076/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT GOLF HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12077/index.m3u8
-#EXTINF:-1 ,V Sport Vinter HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12078/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT PREMIUM HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
-#EXTINF:-1 ,Fox Sports South
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19138/index.m3u8
-#EXTINF:-1 ,FOX SPORTS ARIZONA HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19139/index.m3u8
-#EXTINF:-1 ,FOX SPORTS FLORIDA HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19140/index.m3u8
-#EXTINF:-1 ,FOX SPORTS HOUSTON HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19141/index.m3u8
-#EXTINF:-1 ,FOX SPORTS PRIME TICKET HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19142/index.m3u8
-#EXTINF:-1 ,FOX SPORTS SOUTHWEST PLUS HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19143/index.m3u8
-#EXTINF:-1 ,FOX SPORTS SPORTSTIME OHIO HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19144/index.m3u8
-#EXTINF:-1 ,FOX SPORTS SUN HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19145/index.m3u8
-#EXTINF:-1 ,FOX SPORTS OKLAHOMA HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19146/index.m3u8
-#EXTINF:-1 ,FOX NEWS CHANNEL FHD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19147/index.m3u8
-#EXTINF:-1 ,Bally Sports Great Lakes
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19149/index.m3u8
-#EXTINF:-1 ,BALLY SPORTS SUN
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19150/index.m3u8
-#EXTINF:-1 ,BALLY SPORTS SOUTHEAST CAROLINAS
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19151/index.m3u8
-#EXTINF:-1 ,BALLY SPORTS NORTH
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19152/index.m3u8
-#EXTINF:-1 ,Bally SPORTS MIDWEST
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19153/index.m3u8
-#EXTINF:-1 ,Espn News HD USA
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19154/index.m3u8
-#EXTINF:-1 ,ESPN 2 HD USA
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19155/index.m3u8
-#EXTINF:-1 ,ESPN USA
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19156/index.m3u8
-#EXTINF:-1 ,Aio Sport 1 (480p)
-https://af.ayas.ir/hls2/aiosport.m3u8
-#EXTINF:-1 ,M-Net Sport (720p)
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1,BT4 Movie_3
-http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1,Action Movie_4
-http://b4tv.live/b4tv/b4tv/120.m3u8
-#EXTINF:-1 ,PALSAT SPORTS 1
-http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",MATCH SPORT
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1,ON K+Plus_23
-https://code.vthanhtivi.pw/getlink/onlive/onsports/86421.m3u8
-#EXTINF:-1,On Movie_27
-https://code.vthanhtivi.pw/getlink/onlive/onmovies/86430.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 1
-http://watchindia.net:8880/live/72695/24354/1756.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
-http://watchindia.net:8880/live/72695/24354/2215.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD
-http://watchindia.net:8880/live/72695/24354/1757.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
-http://watchindia.net:8880/live/72695/24354/1758.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 HD
-http://watchindia.net:8880/live/72695/24354/2423.ts
-EXTINF:-1 tvg-id="suryacomedy.in" tvg-name="Surya Comedy" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Comedy.png" group-title="Malayalam",Surya Comedy
-http://watchindia.net:8880/live/72695/24354/299.ts
-#EXTINF:-1 tvg-id="suryamovies.in" tvg-name="Surya Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png" group-title="Malayalam",Surya Movies
-http://watchindia.net:8880/live/72695/24354/298.ts
-#EXTINF:-1 tvg-id="suryamusic.in" tvg-name="Surya Music" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Music.png" group-title="Malayalam",Surya Music
-http://watchindia.net:8880/live/72695/24354/285.ts
-#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="Mazhavil Manorama HD 1" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png" group-title="Malayalam",Mazhavil Manorama HD 1
-http://watchindia.net:8880/live/72695/24354/280.ts
-#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="Mazhavil Manorama HD 2" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png" group-title="Malayalam",Mazhavil Manorama HD 2
-http://watchindia.net:8880/live/72695/24354/2231.ts
-#EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="Zee Keralam HD 1" tvg-logo="https://watchindia.net/images/channels/malayalam/Zee_Keralam_HD.png" group-title="Malayalam",Zee Keralam HD 1
-http://watchindia.net:8880/live/72695/24354/287.ts
-#EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="Zee Keralam HD 2" tvg-logo="https://watchindia.net/images/channels/malayalam/Zee_Keralam_HD.png" group-title="Malayalam",Zee Keralam HD 2
-http://watchindia.net:8880/live/72695/24354/2527.ts
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Hindi",Sony Max HD
-http://watchindia.net:8880/live/72695/24354/788.ts
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Hindi",Sony Sab HD
-http://watchindia.net:8880/live/72695/24354/2323.ts
-#EXTINF:-1 tvg-id="sony.sab.gb" tvg-name="Sony Sab UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Hindi",Sony Sab UK
-http://watchindia.net:8880/live/72695/24354/2189.ts
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Hindi",Sony Pal
-http://watchindia.net:8880/live/72695/24354/812.ts
-#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="Hindi",Sony Wah
-http://watchindia.net:8880/live/72695/24354/814.ts
-#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="Sony Yay" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="Hindi",Sony Yay
-http://watchindia.net:8880/live/72695/24354/2104.ts
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" group-title="Hindi",Sony BBC Earth HD
-http://watchindia.net:8880/live/72695/24354/789.ts
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="Hindi",Star Bharat HD
-http://watchindia.net:8880/live/72695/24354/780.ts
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
-http://watchindia.net:8880/live/72695/24354/785.ts
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Hindi",Star Gold Select HD
-http://watchindia.net:8880/live/72695/24354/784.ts
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD 1" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Hindi",Star Plus HD 1
-http://watchindia.net:8880/live/72695/24354/1924.ts
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD 2" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Hindi",Star Plus HD 2
-http://watchindia.net:8880/live/72695/24354/2278.ts
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Utsav.png" group-title="Hindi",Star Utsav
-http://watchindia.net:8880/live/72695/24354/2493.ts
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Hindi",& Pictures HD
-http://watchindia.net:8880/live/72695/24354/783.ts
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Hindi",& TV HD
-http://watchindia.net:8880/live/72695/24354/782.ts
-#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Hindi",9X Jalwa
-http://watchindia.net:8880/live/72695/24354/828.ts
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM Music" tvg-logo="https://watchindia.net/images/channels/hindi/9XM_Music.png" group-title="Hindi",9XM Music
-http://watchindia.net:8880/live/72695/24354/827.ts
-#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="Aaj Tak HD" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak_HD.png" group-title="Hindi",Aaj Tak HD
-http://watchindia.net:8880/live/72695/24354/807.ts
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News" tvg-logo="https://watchindia.net/images/channels/hindi/ABP_News.png" group-title="Hindi",ABP News
-http://watchindia.net:8880/live/72695/24354/833.ts
-#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Hindi",B4U Music
-http://watchindia.net:8880/live/72695/24354/2113.ts
-#EXTINF:-1 tvg-id="b4uplus.in" tvg-name="B4U Plus" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="Hindi",B4U Plus
-http://watchindia.net:8880/live/72695/24354/823.ts
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="Hindi",Colors Cineplex HD
-http://watchindia.net:8880/live/72695/24354/803.ts
-#EXTINF:-1 tvg-id="aaj.tak.in" tvg-name="Dilli Aaj Tak" tvg-logo="https://watchindia.net/images/channels/hindi/Aaj_Tak.png" group-title="Hindi",Dilli Aaj Tak
-http://watchindia.net:8880/live/72695/24354/836.ts
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="Hindi",Discovery Channel Hindi
-http://watchindia.net:8880/live/72695/24354/841.ts
-#EXTINF:-1 tvg-id="e24.in" tvg-name="E24" tvg-logo="https://watchindia.net/images/channels/hindi/E24.png" group-title="Hindi",E24
-http://watchindia.net:8880/live/72695/24354/829.ts
-#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic TV" tvg-logo="https://watchindia.net/images/channels/hindi/Epic_HD.png" group-title="Hindi",Epic TV
-http://watchindia.net:8880/live/72695/24354/794.ts
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Hindi",History TV18 HD
-http://watchindia.net:8880/live/72695/24354/791.ts
-#EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://watchindia.net/images/channels/hindi/India_Today_TV.png" group-title="Hindi",India Today
-http://watchindia.net:8880/live/72695/24354/835.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Hindi",Kadak Hits HD
-http://watchindia.net:8880/live/72695/24354/798.ts
-#EXTINF:-1 tvg-id="manoranjan.movies.in" tvg-name="Manoranjan Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Manoranjan_Movies.png" group-title="Hindi",Manoranjan Movies
-http://watchindia.net:8880/live/72695/24354/804.ts
-#EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Hindi",Mastiii
-http://watchindia.net:8880/live/72695/24354/826.ts
-#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi",MTV Beats HD
-http://watchindia.net:8880/live/72695/24354/786.ts
-#EXTINF:-1 tvg-id="mtv.in" tvg-name="MTV Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="Hindi",MTV Hindi
-http://watchindia.net:8880/live/72695/24354/825.ts
-#EXTINF:-1 tvg-id="music.in" tvg-name="Music India" tvg-logo="https://watchindia.net/images/channels/hindi/Music_India.png" group-title="Hindi",Music India
-http://watchindia.net:8880/live/72695/24354/2293.ts
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="National Geographic HD" tvg-logo="https://watchindia.net/images/channels/hindi/National_Geographic_HD.png" group-title="Hindi",National Geographic HD
-http://watchindia.net:8880/live/72695/24354/790.ts
-#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="NDTV News" tvg-logo="https://watchindia.net/images/channels/hindi/NDTV_News.png" group-title="Hindi",NDTV News
-http://watchindia.net:8880/live/72695/24354/831.ts
-#EXTINF:-1 tvg-id="ndtvprofit-prime.in" tvg-name="NDTV Profit" tvg-logo="https://watchindia.net/images/channels/hindi/NDTV_Profit.png" group-title="Hindi",NDTV Profit
-http://watchindia.net:8880/live/72695/24354/837.ts
-#EXTINF:-1 tvg-id="newsnation.in" tvg-name="News Nation" tvg-logo="https://watchindia.net/images/channels/hindi/News_Nation.png" group-title="Hindi",News Nation
-http://watchindia.net:8880/live/72695/24354/838.ts
-#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="Nick HD Plus" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_HD_Plus.png" group-title="Hindi",Nick HD Plus
-http://watchindia.net:8880/live/72695/24354/2237.ts
-#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_Hindi.png" group-title="Hindi",Nick Hindi
-http://watchindia.net:8880/live/72695/24354/2182.ts
-#EXTINF:-1 tvg-id="rbharat.in" tvg-name="Republic Bharat" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_Bharat.png" group-title="Hindi",Republic Bharat
-http://watchindia.net:8880/live/72695/24354/817.ts
-#EXTINF:-1 tvg-id="republictv.in" tvg-name="Republic TV News" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_TV_News.png" group-title="Hindi",Republic TV News
-http://watchindia.net:8880/live/72695/24354/815.ts
-#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="Sanskar TV" tvg-logo="https://watchindia.net/images/channels/hindi/Sanskar_TV.png" group-title="Hindi",Sanskar TV
-http://watchindia.net:8880/live/72695/24354/2151.ts
-#EXTINF:-1 tvg-id="timesnow.in" tvg-name="Times Now" tvg-logo="https://watchindia.net/images/channels/hindi/Times_Now.png" group-title="Hindi",Times Now
-http://watchindia.net:8880/live/72695/24354/839.ts
-#EXTINF:-1 tvg-id="tlc.in" tvg-name="TLC Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/TLC.png" group-title="Hindi",TLC Hindi
-http://watchindia.net:8880/live/72695/24354/840.ts
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="TravelXP HD" tvg-logo="https://watchindia.net/images/channels/hindi/TravelXP_HD.png" group-title="Hindi",TravelXP HD
-http://watchindia.net:8880/live/72695/24354/792.ts
-#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9 News" tvg-logo="https://watchindia.net/images/channels/hindi/TV9_News.png" group-title="Hindi",TV9 News
-http://watchindia.net:8880/live/72695/24354/834.ts
-#EXTINF:-1 tvg-id="wion.in" tvg-name="WION News" tvg-logo="https://watchindia.net/images/channels/hindi/Wion_News.png" group-title="Hindi",WION News
-http://watchindia.net:8880/live/72695/24354/816.ts
-#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Hindi",Zee Action
-http://watchindia.net:8880/live/72695/24354/821.ts
-#EXTINF:-1 tvg-id="zanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="Hindi",Zee Anmol
-http://watchindia.net:8880/live/72695/24354/813.ts
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Hindi",Zee Anmol Cinema
-http://watchindia.net:8880/live/72695/24354/820.ts
-#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="Hindi",Zee Bollywood
-http://watchindia.net:8880/live/72695/24354/822.ts
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Hindi",Zee Cinema HD
-http://watchindia.net:8880/live/72695/24354/787.ts
-#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Hindi",Zee Classic
-http://watchindia.net:8880/live/72695/24354/802.ts
-#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_News.png" group-title="Hindi",Zee News
-http://watchindia.net:8880/live/72695/24354/832.ts
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="Hindi",Zee TV HD
-http://watchindia.net:8880/live/72695/24354/1970.ts
-#EXTINF:-1 tvg-id="zee.zest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="Hindi",Zee Zest HD
-http://watchindia.net:8880/live/72695/24354/2359.ts
-#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png" group-title="Hindi",Zoom
-http://watchindia.net:8880/live/72695/24354/842.ts
-#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
-http://watchindia.net:8880/live/72695/24354/843.ts
-#EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="Tamil",Sun Life
-http://watchindia.net:8880/live/72695/24354/847.ts
-#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
-http://watchindia.net:8880/live/72695/24354/844.ts
-#EXTINF:-1 tvg-id="sunnews.in" tvg-name="Sun News" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png" group-title="Tamil",Sun News
-http://watchindia.net:8880/live/72695/24354/869.ts
-#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 1" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 1
-http://watchindia.net:8880/live/72695/24354/846.ts
-#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD 2" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD 2
-http://watchindia.net:8880/live/72695/24354/2140.ts
-#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="Tamil",Star Vijay Super
-http://watchindia.net:8880/live/72695/24354/2190.ts
-#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Adithya TV" tvg-logo="https://watchindia.net/images/channels/tamil/Adithya_TV.png" group-title="Tamil",Adithya TV
-http://watchindia.net:8880/live/72695/24354/855.ts
-#EXTINF:-1 tvg-id="angeltv.in" tvg-name="Angel TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Angel_TV.png" group-title="Tamil",Angel TV HD
-http://watchindia.net:8880/live/72695/24354/862.ts
-#EXTINF:-1 tvg-id="chuttitv.in" tvg-name="Chutti TV" tvg-logo="https://watchindia.net/images/channels/tamil/Chutti_TV.png" group-title="Tamil",Chutti TV
-http://watchindia.net:8880/live/72695/24354/882.ts
-#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="Tamil",Colors Tamil HD
-http://watchindia.net:8880/live/72695/24354/2083.ts
-#EXTINF:-1 tvg-id="discoverytamil.in" tvg-name="Discovery Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Discovery.png" group-title="Tamil",Discovery Tamil
-http://watchindia.net:8880/live/72695/24354/2085.ts
-#EXTINF:-1 tvg-id="isaiaruvi.in" tvg-name="Isai Aruvi TV" tvg-logo="https://watchindia.net/images/channels/tamil/Isaiaruvi_TV.png" group-title="Tamil",Isai Aruvi TV
-http://watchindia.net:8880/live/72695/24354/2149.ts
-#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Max.png" group-title="Tamil",Jaya Max
-http://watchindia.net:8880/live/72695/24354/852.ts
-#EXTINF:-1 tvg-id="jayamovies.in" tvg-name="Jaya Movie" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Movie.png" group-title="Tamil",Jaya Movie
-http://watchindia.net:8880/live/72695/24354/849.ts
-#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Plus.png" group-title="Tamil",Jaya Plus
-http://watchindia.net:8880/live/72695/24354/850.ts
-#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title="Tamil",Jaya TV HD
-http://watchindia.net:8880/live/72695/24354/851.ts
-#EXTINF:-1 tvg-id="kalaignartv.in" tvg-name="Kalaignar TV" tvg-logo="https://watchindia.net/images/channels/tamil/Kalaignar_TV.png" group-title="Tamil",Kalaignar TV
-http://watchindia.net:8880/live/72695/24354/2148.ts
-#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Tamil",KTV HD
-http://watchindia.net:8880/live/72695/24354/845.ts
-#EXTINF:-1 tvg-id="madhatv.in" tvg-name="Madha TV" tvg-logo="https://watchindia.net/images/channels/tamil/Madha_TV.png" group-title="Tamil",Madha TV
-http://watchindia.net:8880/live/72695/24354/875.ts
-#EXTINF:-1 tvg-id="makkaltv.in" tvg-name="Makkal TV" tvg-logo="https://watchindia.net/images/channels/tamil/Makkal_TV.png" group-title="Tamil",Makkal TV
-http://watchindia.net:8880/live/72695/24354/871.ts
-#EXTINF:-1 tvg-id="murasutv.in" tvg-name="Murasu TV" tvg-logo="https://watchindia.net/images/channels/tamil/Murasu_TV.png" group-title="Tamil",Murasu TV
-http://watchindia.net:8880/live/72695/24354/880.ts
-#EXTINF:-1 tvg-id="nambikkaitv.in" tvg-name="Nambikkai TV" tvg-logo="https://watchindia.net/images/channels/tamil/Nambikkai_TV.png" group-title="Tamil",Nambikkai TV
-http://watchindia.net:8880/live/72695/24354/856.ts
-#EXTINF:-1 group-title="HINDI MOVIE",BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="HINDI MOVIE",BOLLYWOOD CLASSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=PG&ads.language=en&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="MUSIC",DESHI CHANNEL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23014&ads.content_duration=18000&ads.episode_id=76356&ads.show_id=2954&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Desi%20TV&ads.episodetitle=Desi%20TV&ads.keywords=desi&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="ANIMAL",FOOD FOOD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23052&ads.content_duration=18000&ads.episode_id=80273&ads.show_id=3139&ads.showCategories=IAB8&ads.episodeCategories=IAB8&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=FOODFOOD&ads.episodetitle=FOODFOOD&ads.keywords=FOODFOOD%2CSanjeev%2CKapoor%2CChef%20Sanjeev%20Kapoor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="ENGLISH MOVIE",Dubai ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="ANIMAL",FOOD NETWORK
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
-#EXTINF:-1 group-title="ANIMAL",TLC
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrftLzrBLj1tvC5Afbumd0&auth=1ec0667c4e82e3a9a7f2a7af7f37269445eb555ebdc658b1812f52260a850d56
-#EXTINF:-1 group-title="ANIMAL",DISCOVERY SCIENCE
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
-#EXTINF:-1 group-title="ANIMAL",DISCOVERY HD
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
-#EXTINF:-1 group-title="ANIMAL",ANIMAL PLANET
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
-#EXTINF:-1 group-title="MUSIC",SANGEET  BANGLA
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuv1PwzwPkwvnhD3LJA3G2vfDzEffTAhHwA0yZtLv0nMvfzfzrBLj1tvC5Afbumd0&auth=4d67722628718a521735bf8c2deceac8c2176fbfbfa1d0e9e3ff4168274e8ac4
-#EXTINF:-1 group-title="MUSIC",SANGEET MARATHI
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuvwHxuvu1Au1vtK5tmvO2wJnAtMvyAdjvmfjQt1zcq1rysK1sv00XvKCWEMruut0&auth=f174f4df51129547366e33f76c9adb5c7dbc2d406a48fd42d19c059563a9f3b4
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT",DD NATIONAL
-https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBgXLBwmXu0vsBLrgwKnuv1PuyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=73d2ae52851e4171ea5476852ac349e84f08f9db07d8a842400bd300ee5c2251
-#EXTINF:-1,BUDDHA
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
-#EXTINF:-1 ,မဟာဗောဓိ
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
-#EXTINF:-1 ,MRTV HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
-#EXTINF:-1 ,MWD HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLPffZJAU1xU0dRl3W2MPz0/ts
-#EXTINF:-1 ,MRTV News HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMuz_hizrZD7BH2pdhovsW0/ts
-#EXTINF:-1 ,MRTV-4 HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEOQaldLwHUSfk0rAF1TIWw/ts
-#EXTINF:-1,MRTV-4"
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKyUU5inl0F_3LywQqmuMP8/ts
-#EXTINF:-1 ,Channel7 HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIj4FQuE8M4NumvgLORqi70/ts
-#EXTINF:-1 ,Channel7
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHyKvh_SMG8KVdtg_SfuzWQ/ts
-#EXTINF:-1 ,Channel K HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOh53p-3GB_U5VSPyN6W7YU/ts
-#EXTINF:-1 ,Fortune HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
-#EXTINF:-1 ,HTV Sports
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLNKllQLxmnJAK04Dc3-n-8/ts
-#EXTINF:-1 ,HTV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKchgJW2_BIpDRGXLWkCD_Y/ts
-#EXTINF:-1 ,YTV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
-#EXTINF:-1 ,MNTV
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLDScsCKDJf0xr55UFaKdfg/ts
-#EXTINF:-1,Channel 9
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
-#EXTINF:-1 ,M Entertainment
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPRDyMv4aiUl7pvgUNFAzws/ts
-#EXTINF:-1 ,5 Plus
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
-#EXTINF:-1 ,Mahar HD
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
-#EXTINF:-1 ,CH Movies ၁
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
-#EXTINF:-1 ,CH Movies ၂
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkzXKxtTsz_zIzblIf_kP0/ts
-#EXTINF:-1 ,CH Movies ၃
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCH3RGoJkklNBTnHIFgSXKw/ts
-#EXTINF:-1 ,CH Movies ၄
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
-#EXTINF:-1 ,Movies CH1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
-#EXTINF:-1 ,Movies CH2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
-#EXTINF:-1 ,Movies 3
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHneg4oFwOctzvsOVGYER8/ts
-#EXTINF:-1 ,Movies 4
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
-#EXTINF:-1 ,Movies 5
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
-#EXTINF:-1 ,Movies 6
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
-#EXTINF:-1 ,Movies 7
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
-#EXTINF:-1 ,Series 1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
-#EXTINF:-1 ,Series 2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
-#EXTINF:-1 ,Cartoon 1
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
-#EXTINF:-1 ,Cartoon 2
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
-#EXTINF:-1 ,MWD Education
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOQsvtGZoYKv9OsQIpbfgZc/ts
-#EXTINF:-1 ,MM EDU
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFq25hOqi_ozcvT_tTD5ln4/ts
-#EXTINF:-1 ,MRTV NRC
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHfYQgx43k41QXbo0Fsjw8/ts
-#EXTINF:-1,MY Movie 9
-http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
-#EXTINF:-1,MY Movie  10
-http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
-#EXTINF:-1, MY Movie 11
-http://www.zegomovie.com/Videos/Blowback/index.m3u8
-#EXTINF:-1,MY Movie  12
-http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
-#EXTINF:-1,MY Movie 13
-http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
-#EXTINF:-1,MY Movie 14
-http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
-#EXTINF:-1,MY Movie 15
-http://www.zegomovie.com/Videos/Sherni/index.m3u8
-#EXTINF:-1,MY Movie 16
-http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
-#EXTINF:-1,MY Movie 17
-http://www.zegomovie.com/Videos/Kate/index.m3u8
-#EXTINF:-1,MY Movie  18
-http://www.zegomovie.com/Videos/Pele/index.m3u8
-#EXTINF:-1,MY Movie 19
-http://www.zegomovie.com/Videos/HereandThere/index.m3u8
-#EXTINF:-1,MY Movie 20
-http://www.zegomovie.com/Videos/ReadyorNot/index.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQyMjMwNTMtMjA4YS00MGI4LTkxOWItZWI1YTViNmE5ZWUwXkEyXkFqcGdeQXVyMTQwODg1NTU3._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",TheRoundup
-http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",ThorGodofThunder2022
+
+
+
+  
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",ThorGodofThunder2022
 http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="MMSUBMOVIES",DoctorStrange
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="5-MMSUBMOVIES",DoctorStrange
 http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjYjQ3NjgtZWM0NS00MTY5LTlkZWMtODZlNzhkNTU3MzZiXkEyXkFqcGdeQXVyMjM2OTI3Mzk@._V1_.jpg" group-title="MMSUBMOVIES",Interceptor
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjYjQ3NjgtZWM0NS00MTY5LTlkZWMtODZlNzhkNTU3MzZiXkEyXkFqcGdeQXVyMjM2OTI3Mzk@._V1_.jpg" group-title="5-MMSUBMOVIES",Interceptor
 http://www.zegomovie.com/Videos/Interceptor/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="MMSUBMOVIES",Major2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="5-MMSUBMOVIES",Major2022
 http://www.zegomovie.com/Videos/Major/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Jurassic World2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Jurassic World2022
 http://www.zegomovie.com/Videos/JurassicWorldDominion/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ2ODk1YmUtZWI0NC00YWU0LWE5ODctY2U4NTFhMWI0ZGI3XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="MMSUBMOVIES",BlowBlack2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ2ODk1YmUtZWI0NC00YWU0LWE5ODctY2U4NTFhMWI0ZGI3XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="5-MMSUBMOVIES",BlowBlack2022
 http://www.zegomovie.com/Videos/Blowback/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiNGNiM2ItYTM4ZS00ZDBhLWE5NGEtMzNkOGUyN2U4NTFjXkEyXkFqcGdeQXVyMjUxMDgwNA@@._V1_.jpg" group-title="MMSUBMOVIES",IronCross TheRoadNormandy2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiNGNiM2ItYTM4ZS00ZDBhLWE5NGEtMzNkOGUyN2U4NTFjXkEyXkFqcGdeQXVyMjUxMDgwNA@@._V1_.jpg" group-title="5-MMSUBMOVIES",IronCross TheRoadNormandy2022
 http://www.zegomovie.com/Videos/IronCrossTheRoadtoNormandy/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFjMjBkMzQtMDJmZi00NjJiLWI1ZTEtMjJkYTE1ZTZhMTliXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",Beast2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFjMjBkMzQtMDJmZi00NjJiLWI1ZTEtMjJkYTE1ZTZhMTliXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="5-MMSUBMOVIES",Beast2022
 http://www.zegomovie.com/Videos/Beast2022/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1NTRhZDgtZGQyMi00OTQ1LWFhMmMtMmJhMTZhMjZhNDQ0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",KGFChapter2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1NTRhZDgtZGQyMi00OTQ1LWFhMmMtMmJhMTZhMjZhNDQ0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="5-MMSUBMOVIES",KGFChapter2
 http://www.zegomovie.com/Videos/KGFChapter2/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjNjUzOGMtZjE1OC00MjQ1LThjNzgtYjNlNWEzYThlMjgzXkEyXkFqcGdeQXVyMTAyNTQ0MzI1._V1_.jpg" group-title="MMSUBMOVIES",9Bullets
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjNjUzOGMtZjE1OC00MjQ1LThjNzgtYjNlNWEzYThlMjgzXkEyXkFqcGdeQXVyMTAyNTQ0MzI1._V1_.jpg" group-title="5-MMSUBMOVIES",9Bullets
 http://www.zegomovie.com/Videos/9Bullets/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWEwMWQ2NmItZTdlNi00ZDQ1LWE0OWItODA0ODhjYzZlY2JjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",Ghani2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWEwMWQ2NmItZTdlNi00ZDQ1LWE0OWItODA0ODhjYzZlY2JjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="5-MMSUBMOVIES",Ghani2022
 http://www.zegomovie.com/Videos/Ghani/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",TheVault2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",TheVault2021
 http://www.zegomovie.com/Videos/TheVault/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="MMSUBMOVIES",TheLostCity
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="5-MMSUBMOVIES",TheLostCity
 http://www.zegomovie.com/Videos/TheLostCity/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Uncharted
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Uncharted
 http://www.zegomovie.com/Videos/Uncharted/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzMjY3NDItNzAxMS00YTc5LWE3N2EtMDBmNDAwMDQ2NzE4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",OhMyDog
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzMjY3NDItNzAxMS00YTc5LWE3N2EtMDBmNDAwMDQ2NzE4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",OhMyDog
 http://www.zegomovie.com/Videos/OhMyDog/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/249129511/s718/etharkkum-thunindhavan.%7Bformat%7D" group-title="MMSUBMOVIES",EtharkkumThunindhavan
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/249129511/s718/etharkkum-thunindhavan.%7Bformat%7D" group-title="5-MMSUBMOVIES",EtharkkumThunindhavan
 http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwZjhmMWUtMGNiYS00YzM1LTg0NzYtNjI2YTI1MzVjNWU3XkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",SuperMachi
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwZjhmMWUtMGNiYS00YzM1LTg0NzYtNjI2YTI1MzVjNWU3XkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",SuperMachi
 http://www.zegomovie.com/Videos/SuperMachi/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVlNzkzNWYtNmIxZi00NjI1LWI1NDktNzQ2ZjFiNjc2ZjY0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",Morbius
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVlNzkzNWYtNmIxZi00NjI1LWI1NDktNzQ2ZjFiNjc2ZjY0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="5-MMSUBMOVIES",Morbius
 http://www.zegomovie.com/Videos/Morbius/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg" group-title="MMSUBMOVIES",RRR
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg" group-title="5-MMSUBMOVIES",RRR
 http://www.zegomovie.com/Videos/RRR/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0NGQzYjEtNTlhNy00ZTllLTgzZTgtZDM0NWU5NzFmY2EwXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="MMSUBMOVIES",Restless
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0NGQzYjEtNTlhNy00ZTllLTgzZTgtZDM0NWU5NzFmY2EwXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="5-MMSUBMOVIES",Restless
 http://www.zegomovie.com/Videos/Restless/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.mydramalist.com/2KodE_4f.jpg" group-title="MMSUBMOVIES",AnotherMe
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/2KodE_4f.jpg" group-title="5-MMSUBMOVIES",AnotherMe
 http://www.zegomovie.com/Videos/AnotherMe/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg" group-title="MMSUBMOVIES",AManCalledHero
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg" group-title="5-MMSUBMOVIES",AManCalledHero
 http://www.zegomovie.com/Videos/AManCalledHero/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM5OWQyZWQtNWQ1OS00MWNkLWFiNGYtZGFlZDY0OTNhMDg4XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg" group-title="MMSUBMOVIES",GasolineAlley
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM5OWQyZWQtNWQ1OS00MWNkLWFiNGYtZGFlZDY0OTNhMDg4XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg" group-title="5-MMSUBMOVIES",GasolineAlley
 http://www.zegomovie.com/Videos/GasolineAlley/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYTkxNDUtMWM3NC00MWEzLTg1NWEtY2E4YmEwM2E5OThlXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg" group-title="MMSUBMOVIES",ProjectGemini
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYTkxNDUtMWM3NC00MWEzLTg1NWEtY2E4YmEwM2E5OThlXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg" group-title="5-MMSUBMOVIES",ProjectGemini
 http://www.zegomovie.com/Videos/ProjectGemini/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnoZrN3h-UDacY0wTC-ZNr9JfPto-fHFbJryEZKKQa5pUNEc&s" group-title="MMSUBMOVIES",Vesper2022
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnoZrN3h-UDacY0wTC-ZNr9JfPto-fHFbJryEZKKQa5pUNEc&s" group-title="5-MMSUBMOVIES",Vesper2022
 https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Vesper(2022)(720p)/7PgKDNk5czbZT6ACIM0a.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc3MzZmNTEtNzdlMy00NTkyLWIzYmMtNzA1YmY4MTMxOTg3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_.jpg" group-title="MMSUBMOVIES",Hunt2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc3MzZmNTEtNzdlMy00NTkyLWIzYmMtNzA1YmY4MTMxOTg3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_.jpg" group-title="5-MMSUBMOVIES",Hunt2022
 https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Hunt2022(480p)/EflpBnk8RXdbrG0wCZ9e.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",BulletTrain2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",BulletTrain2022
 https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/BulletTrain(2022)(480p)/HYO3P9nk1hbvxg7MwipZ.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY1YTA2NzUtMGQ3OS00YTE2LWJhNDgtYjFhOGQ1YWM0NDUwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg" group-title="MMSUBMOVIES",Poikkalkuthirai
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY1YTA2NzUtMGQ3OS00YTE2LWJhNDgtYjFhOGQ1YWM0NDUwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg" group-title="5-MMSUBMOVIES",Poikkalkuthirai
 https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/PoikkalKuthirai(2022)(480p)/AvDcFpybNZUl18oMxTnO.m3u8
-#EXTINF:-1 tvg-logo="http://www.zegomovie.com/Uploads/vod/2022-01-08/61d9542643162.jpg" group-title="MMSUBMOVIES",PonManickavel 
+#EXTINF:-1 tvg-logo="http://www.zegomovie.com/Uploads/vod/2022-01-08/61d9542643162.jpg" group-title="5-MMSUBMOVIES",PonManickavel 
 http://www.zegomovie.com/Videos/PonManickavel/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQxYzNjMGItNzVlMS00NjBhLWI4NTItMmVkZTI0NGE3ZDI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="MMSUBMOVIES",ArmyofThieves2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQxYzNjMGItNzVlMS00NjBhLWI4NTItMmVkZTI0NGE3ZDI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="5-MMSUBMOVIES",ArmyofThieves2021
 http://www.zegomovie.com/Videos/ArmyofThieves/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1goZFxx5tl3AF_q42cO-vJrNd8xSqgNI9ug&usqp=CAU" group-title="MMSUBMOVIES",QueensReturn2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1goZFxx5tl3AF_q42cO-vJrNd8xSqgNI9ug&usqp=CAU" group-title="5-MMSUBMOVIES",QueensReturn2021
 http://www.zegomovie.com/Videos/QueensReturn/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.zegomovie.com/Uploads/vod/2022-01-07/61d7b7b0cff42.jpg" group-title="MMSUBMOVIES",Rudra Thandavam2021
+#EXTINF:-1 tvg-logo="http://www.zegomovie.com/Uploads/vod/2022-01-07/61d7b7b0cff42.jpg" group-title="5-MMSUBMOVIES",Rudra Thandavam2021
 http://www.zegomovie.com/Videos/RudraThandavam/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyZTExNzYtMzZkNy00ZWYxLTk4NTUtMjNkZjY5MzMzNGU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="MMSUBMOVIES",TheEast2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyZTExNzYtMzZkNy00ZWYxLTk4NTUtMjNkZjY5MzMzNGU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="5-MMSUBMOVIES",TheEast2021
 http://www.zegomovie.com/Videos/TheEast/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg" group-title="MMSUBMOVIES",SpiderManNoWayHome2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg" group-title="5-MMSUBMOVIES",SpiderManNoWayHome2021
 http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2UIw8f72UY1vOuYBsU-QvKD6CYQC93wYtg&usqp=CAU" group-title="MMSUBMOVIES",HomeSweetHome2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2UIw8f72UY1vOuYBsU-QvKD6CYQC93wYtg&usqp=CAU" group-title="5-MMSUBMOVIES",HomeSweetHome2021
 http://www.zegomovie.com/Videos/HomeSweetHome/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",NightRaiders2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",NightRaiders2021
 http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXh9znC5ilK9nTkELO7GZGUpIkHwAy8BEkHw&usqp=CAU" group-title="MMSUBMOVIES",RedNotice2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXh9znC5ilK9nTkELO7GZGUpIkHwAy8BEkHw&usqp=CAU" group-title="5-MMSUBMOVIES",RedNotice2021
 http://www.zegomovie.com/Videos/RedNotice/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMhDRZBUo9-N8x0-P2be1O1g6CqCTOhfOvg&usqp=CAU" group-title="MMSUBMOVIES",No Time to Die 2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMhDRZBUo9-N8x0-P2be1O1g6CqCTOhfOvg&usqp=CAU" group-title="5-MMSUBMOVIES",No Time to Die 2021
 http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Venom2 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Venom2 
 http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QRNwOyJHEzctOjrtXptEHObJPDzjvi6jjg&usqp=CAU" group-title="MMSUBMOVIES",RgingFire2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QRNwOyJHEzctOjrtXptEHObJPDzjvi6jjg&usqp=CAU" group-title="5-MMSUBMOVIES",RgingFire2021
 http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhZWEyMzEtNmI1ZC00MDEzLThjZjItM2ViZjBkNjU0ZWQyXkEyXkFqcGdeQXVyMTMwMjc2MjI1._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Flight2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhZWEyMzEtNmI1ZC00MDEzLThjZjItM2ViZjBkNjU0ZWQyXkEyXkFqcGdeQXVyMTMwMjc2MjI1._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Flight2021
 http://www.zegomovie.com:80/Videos/Flight/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4ZmEwOWMtNmZkZi00NjU3LTg1NmQtODQ1NDA1YTI2MDAyXkEyXkFqcGdeQXVyMjQxNzY5NTc@._V1_.jpg" group-title="MMSUBMOVIES",ShowMetheGhost
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4ZmEwOWMtNmZkZi00NjU3LTg1NmQtODQ1NDA1YTI2MDAyXkEyXkFqcGdeQXVyMjQxNzY5NTc@._V1_.jpg" group-title="5-MMSUBMOVIES",ShowMetheGhost
 http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4MTFiNzctY2RmOC00YzBkLTgzNTYtZGE4NDdjOWVjNGY5XkEyXkFqcGdeQXVyNzI0MTY5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",TheStronghold2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4MTFiNzctY2RmOC00YzBkLTgzNTYtZGE4NDdjOWVjNGY5XkEyXkFqcGdeQXVyNzI0MTY5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",TheStronghold2021
 http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="MMSUBMOVIES",FREE GUY 2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="5-MMSUBMOVIES",FREE GUY 2021
 http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwYTQxZWEtYzAwNy00NmM4LWE4MDUtYTU5ZTVmYjY4ZTAwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",BellBottom2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwYTQxZWEtYzAwNy00NmM4LWE4MDUtYTU5ZTVmYjY4ZTAwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="5-MMSUBMOVIES",BellBottom2021
 http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.mydramalist.com/EWd7m_4c.jpg?v=1" group-title="MMSUBMOVIES",BreakThrough2021
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/EWd7m_4c.jpg?v=1" group-title="5-MMSUBMOVIES",BreakThrough2021
 http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",The Medium2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",The Medium2021
 http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlYjY4MjYtODlkNS00OWUxLWI3YzgtZTIzZGU0ZGE5ODMzXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg" group-title="MMSUBMOVIES",Kaadan2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlYjY4MjYtODlkNS00OWUxLWI3YzgtZTIzZGU0ZGE5ODMzXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg" group-title="5-MMSUBMOVIES",Kaadan2021
 http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjNDRmNTktYWY1Ny00ODE4LTk5MjEtNGQ4OWFmZDZlZTVlXkEyXkFqcGdeQXVyMTEwODEzNTU@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",SINK HOLE 2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjNDRmNTktYWY1Ny00ODE4LTk5MjEtNGQ4OWFmZDZlZTVlXkEyXkFqcGdeQXVyMTEwODEzNTU@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",SINK HOLE 2021
 http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="MMSUBMOVIES",TheCardCounter2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="5-MMSUBMOVIES",TheCardCounter2021
 http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E4MmNmMzgtOTI2YS00MzhjLTlmOWItZTkxNWRkYTY2NDcwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",NIGHT BOOK2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E4MmNmMzgtOTI2YS00MzhjLTlmOWItZTkxNWRkYTY2NDcwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",NIGHT BOOK2021
 http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="MMSUBMOVIES",PawPatrol2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="5-MMSUBMOVIES",PawPatrol2021
 http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MTQ3ZjQtZmRjMS00ZDJmLTlkYWQtOWVhODllYjJiNGUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",The Protege2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MTQ3ZjQtZmRjMS00ZDJmLTlkYWQtOWVhODllYjJiNGUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",The Protege2021
 http://www.zegomovie.com/Videos/TheProtege/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNGYyOTYtZDVjOS00MTIyLThiMWItOTViYTcxYmNjMWY4XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",The Rebal of PT218
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNGYyOTYtZDVjOS00MTIyLThiMWItOTViYTcxYmNjMWY4XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",The Rebal of PT218
 http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJmMzYyN2ItMzU0NS00MmYyLWI0ZDQtMjFmMWJkYWQ2YjYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Sherni 2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJmMzYyN2ItMzU0NS00MmYyLWI0ZDQtMjFmMWJkYWQ2YjYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Sherni 2021
 http://www.zegomovie.com/Videos/Sherni/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo5ROKwqLj_koDNtcbOveEDQp7Ck2h92pCg&usqp=CAU" group-title="MMSUBMOVIES",BhootPoolice2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo5ROKwqLj_koDNtcbOveEDQp7Ck2h92pCg&usqp=CAU" group-title="5-MMSUBMOVIES",BhootPoolice2021
 http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hlO0OixxRfRas8a-Dk6p3QLejXbfHZE4jg&usqp=CAU" group-title="MMSUBMOVIES",TuckJagadish2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hlO0OixxRfRas8a-Dk6p3QLejXbfHZE4jg&usqp=CAU" group-title="5-MMSUBMOVIES",TuckJagadish2021
 http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSme9OsGV6PwkTNqLepLNNQY01_gnFbPL7L2g&usqp=CAU" group-title="MMSUBMOVIES",Kate2022
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSme9OsGV6PwkTNqLepLNNQY01_gnFbPL7L2g&usqp=CAU" group-title="5-MMSUBMOVIES",Kate2022
 http://www.zegomovie.com/Videos/Kate/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_.jpg" group-title="MMSUBMOVIES",Pele2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_.jpg" group-title="5-MMSUBMOVIES",Pele2021
 http://www.zegomovie.com/Videos/Pele/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ0NDQxYWItNDViYS00YmNmLWIxZjQtZmNlYmFhNmJiMWZlXkEyXkFqcGdeQXVyMTE4MDA1MTgx._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Here &There2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ0NDQxYWItNDViYS00YmNmLWIxZjQtZmNlYmFhNmJiMWZlXkEyXkFqcGdeQXVyMTE4MDA1MTgx._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Here &There2021
 http://www.zegomovie.com/Videos/HereandThere/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Ready or Knot2021
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Ready or Knot2021
 http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 
