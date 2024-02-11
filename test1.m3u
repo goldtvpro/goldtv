@@ -91,16 +91,16 @@ https://edge2.laotv.la/live/TSport1/index.m3u8
 https://edge2.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein1.png" group-title="4-SPORT",3_BEIN 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png" group-title="4SPORT",4_BEIN 2
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png" group-title="4-SPORT",4_BEIN 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 xui-id="73" tvg-id="" tvg-name="BEIN 2" tvg-logo="" group-title="4-SPORT",5_SPORT6
 http://ns5025893.ip-15-235-212.net:25461/play/d9IDR7Ymv6WOMZNNHbrTFBmL2hW2h-NIYXNW-i52-Mm-JkvXBIQOh24XQXdW9Zne/ts
 
 
--------------------------------------
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD " tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="4-Sports",Star Sports Select 1 HD 
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD " tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="4-SPORT",Star Sports Select 1 HD 
 http://watchindia.net:8880/live/72695/24354/2292.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="4-Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="4-SPORT",Star Sports Select 2 HD
 http://watchindia.net:8880/live/72695/24354/1070.ts
 
 
