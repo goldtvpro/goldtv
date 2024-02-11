@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA (Test)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEFX5Qw_kv5XOIrtGkSwmqpydK7lCOu4j7g&usqp=CAU" group-title="under maintenance",under maintenance
-https://raw.githubusercontent.com/goldtvpro/goldtv/main/under%20maintenance.mp3
+#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA (Test)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEFX5Qw_kv5XOIrtGkSwmqpydK7lCOu4j7g&usqp=CAU" group-title="under maintenance",UPDATE
+https://raw.githubusercontent.com/goldtvpro/goldtv/main/update.mp4
