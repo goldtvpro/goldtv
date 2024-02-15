@@ -229,3 +229,132 @@ http://www.zegomovie.com/Videos/HereandThere/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="5-MMSUBMOVIES",Ready or Knot2021
 http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 
+
+#EXTINF:-0 group-title="AISPLAY PREMIUM" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
+
+#EXTINF:-0 tvg-id="AsianFoodNetwork.sg" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AISPLAY PREMIUM",Asian Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
+
+#EXTINF:-1 group-title="AISPLAY PREMIUM" tvg-id="GlobalTrekker.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png",GlobalTrekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c67bc71fc46a9af8e839ac84794f570:5375508840e044432a708c3fba038c05
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd
+
+#EXTINF:-1 tvg-id="MONOPLUS.th" tvg-name="MonoPlus" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="AISPLAY PREMIUM", 3BB-MONO PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2698a310f625b96ac6c46d5a7c8e779b:35b285a0ace10e4f4cbb7aab67c94fba
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
+
+#EXTINF:-0 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="AISPLAY PREMIUM",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
+
+#EXTINF:-0 tvg-id="RockEntertainment.sg" tvg-name="Rock Extreme" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="AISPLAY PREMIUM",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
+
+#EXTINF:-0 tvg-id="ParamountNetwork.sg" tvg-name="Paramount Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png" group-title="AISPLAY PREMIUM",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
+#https://sv2.wacthstream.com/wacth_tv/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMyA2OjI0OjQxIFBNJmhhc2hfdmFsdWU9UDdaaW80eHo0MktLLzNxZ1RNYXJRUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzcxOTEy
+
+#EXTINF:-0 tvg-id="Mono29Musicstation." tvg-name="Mono29Musicstation" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="AISPLAY PREMIUM", Mono29Musicstation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2355ee65664e0b7fc02e7d389e1d2658:a935ccb1065ffe214823aae414f8b257
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
+==================================
+==================================
+#EXTINF:-1 tvg-name="NBT 2 HD" tvg-id="NBT 2 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="AIS/Digital TV.", NBT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0001/DASH/B0001.mpd
+
+#EXTINF:-1 tvg-name="TPBS" tvg-id="TPBS.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="AIS/Digital TV.", TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0014/DASH/B0014.mpd
+
+#EXTINF:-1 tvg-name="ALTV4" tvg-id="ALTV4.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="AIS/Digital TV.", ALTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0085/DASH/V0085.mpd
+
+#EXTINF:-1 tvg-name="CH5 HD" tvg-id="CH5 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="AIS/Digital TV.", CH5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0007/DASH/B0007.mpd
+
+#EXTINF:-1 tvg-name="T-Sports7" tvg-id="T-Sports7.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="AIS/Digital TV.", T-Sports7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0129/DASH/B0129.mpd
+
+#EXTINF:-1 tvg-name="Parliament" tvg-id="Parliament.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="AIS/Digital TV.", Parliament
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0048/DASH/V0048.mpd
+
+#EXTINF:-1 tvg-name="TNN" tvg-id="TNN.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="AIS/Digital TV.", TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd
+
+#EXTINF:-1 tvg-name="JKN 18" tvg-id="JKN 18.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="AIS/Digital TV.", JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0010/DASH/B0010.mpd
+
+#EXTINF:-1 tvg-name="Nation TV" tvg-id="Nation TV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="AIS/Digital TV.", Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0021/DASH/B0021.mpd
+
+#EXTINF:-1 tvg-name="Workpoint TV" tvg-id="Workpoint TV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="AIS/Digital TV.", Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0015/DASH/B0015.mpd
+
+#EXTINF:-1 tvg-name="True 4 U" tvg-id="True 4 U.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="AIS/Digital TV.", True 4 U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd
+
+#EXTINF:-1 tvg-name="GMM25" tvg-id="GMM25.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="AIS/Digital TV.", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd
+
+#EXTINF:-1 tvg-name="CH8" tvg-id="CH8.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="AIS/Digital TV.", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
+
+#EXTINF:-1 tvg-name="MONO" tvg-id="MONO.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="AIS/Digital TV.", MONO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0016/DASH/B0016.mpd
+
+#EXTINF:-1 tvg-name="MCOT HD" tvg-id="MCOT HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="AIS/Digital TV.", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0008/DASH/B0008.mpd
+
+#EXTINF:-1 tvg-name="ONE 31 HD" tvg-id="ONE 31 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="AIS/Digital TV.", ONE 31 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0012/DASH/B0012.mpd
+
+#EXTINF:-1 tvg-name="Thairath TV HD" tvg-id="Thairath TV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="AIS/Digital TV.", Thairath TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0013/DASH/B0013.mpd
+
+#EXTINF:-1 tvg-name="3 HD" tvg-id="3 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="AIS/Digital TV.", 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd
+
+#EXTINF:-1 tvg-name="AmarinTV HD" tvg-id="AmarinTV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="AIS/Digital TV.", AmarinTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0017/DASH/B0017.mpd
+
+#EXTINF:-1 tvg-name="CH7 HD" tvg-id="CH7 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="AIS/Digital TV.", CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0018/DASH/B0018.mpd
+
+#EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="AIS/Digital TV.", PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0022/DASH/B0022.mpd
+
+
+
