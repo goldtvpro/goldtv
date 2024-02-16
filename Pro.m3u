@@ -502,3 +502,8 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
 #EXTINF:-1 ch-number="255" tvg-name="TV5MONDE" tvg-id="TV5MONDE.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/NEWS-ICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TV5MONDEasie.png" group-title="AISPLAY- พรีเมี่ยม", TV5MONDE
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0141/DASH/V0141.mpd
 
+
+#####################################
+#EXTINF:-1 ch-number="255" tvg-name="TEST" tvg-id="TEST" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/NEWS-ICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TV5MONDEasie.png" group-title="TEST", TEST
+intent://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD TV;end
+
