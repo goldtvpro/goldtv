@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="LIVE" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="01 LIVE",LIVE
+#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWkHx3eMH-S1W7uN-epRFP7FEXrL9ZmmS0JwLKZPtfH9EaO-nQ-DP6QYb-FTviIaIEmWR2lrx2W_BlqhI7zDAKfxiW25YDbaZ4rIUAwKeNAwt2uvOAfKuu7EBGjhR0TQ19qKHrQwcJAox_PnKqZ5djxMKGk_j5nPTYiwSA0Lt2TzEJaRs90i3ItcIblFGw/s720/1708150999792.png", Info Update 081775703888  Anobyz
 https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=d5d2720fde1f025239301ff3c10cc501&txTime=65d0e379#skip
+
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="1-BUDDHA",BUDDHA
