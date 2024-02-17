@@ -5,8 +5,7 @@ https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=d5d2720fde1f0252
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",2LIVE EPL
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
 
-#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",3LIVE EPL
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOhS7fBmSIoPEiVOZUqIUqA/ts
+#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",3LIVE EPL http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOhS7fBmSIoPEiVOZUqIUqA/ts
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="1-BUDDHA",BUDDHA
