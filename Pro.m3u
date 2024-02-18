@@ -3,9 +3,9 @@
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",1LIVE EPL
 https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=b21e424e01ea67273aa8e1bb8b10f029&txTime=65d13d49
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",2LIVE EPL
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts1
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",3LIVE EPL
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOhS7fBmSIoPEiVOZUqIUqA/ts
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOhS7fBmSIoPEiVOZUqIUqA/ts2
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
