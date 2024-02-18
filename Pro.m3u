@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://sta.mxres.co/file/common/20240215/969551acd194859cf37cd9745aff4204.png",1LIVE EPL11PM
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1708266910-0-0-5b195730481af9a7b2661ea81906f9a2
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://sta.mxres.co/file/common/20240215/969551acd194859cf37cd9745aff4204.png",2LIVE EPL11PM
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts1
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://sta.mxres.co/file/common/20240215/969551acd194859cf37cd9745aff4204.png",3LIVE EPL
