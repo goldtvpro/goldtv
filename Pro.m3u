@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://sta.mxres.co/file/common/20240215/969551acd194859cf37cd9745aff4204.png",1LIVE EPL11PM
-https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://sta.mxres.co/file/common/20240215/969551acd194859cf37cd9745aff4204.png",2LIVE EPL11PM
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts2
-#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://sta.mxres.co/file/common/20240215/969551acd194859cf37cd9745aff4204.png",3LIVE EPL
+#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ချန်ပီယံလိဒ်
+http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fkpCOcTEYKOovZqLcFnH--Q/ts
+#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ပရီးမီယားလိဒ်
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+#EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ပရီးမီးယားလိဒ်
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOhS7fBmSIoPEiVOZUqIUqA/ts2
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
