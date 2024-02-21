@@ -2,8 +2,7 @@
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ချန်ပီယံလိဒ်
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMAywamE0otFF8PZCXaB5bg/ts
 
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE",ချန်ပီယံလိဒ်
-
+#EXTINF:-1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE",ချန်ပီယံလိဒ်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://heartangtv.com/dooball/
 https://iptv-th.com/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/m3u8
