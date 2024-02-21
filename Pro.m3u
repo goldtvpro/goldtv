@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ချန်ပီယံလိဒ်
-http://bananatv.org:25461/play/I2UM33rRWVhvCJl76UC8fkpCOcTEYKOovZqLcFnH--Q/ts
+http://
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ပရီးမီယားလိဒ်
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+http://
 #EXTINF:-1 group-title="01 LIVE" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png",ပရီးမီးယားလိဒ်
 https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1708433839-0-0-8064c134a149d5a0166f12e7c879d08c#skip
 
