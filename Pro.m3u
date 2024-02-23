@@ -8,7 +8,7 @@ https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.co
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", sporting charleroi-vs-genk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://2sport.tv/match/live-sporting-charleroi-vs-genk-1708717500
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.com%2Fstream%2F44%2Findex.fmp4.m3u8&token=ac8bf1dae3d4bc7bae8fd86d25b65056b698a676&is_vip=false&verify=1708711200-Cab7tj26R6PSqa2Zb1Seb%2FB6ht9o%2BAwIKflLV13JrdE%3D
+https://livecdn-bp.rumsport.com/stream/44/chunks.m3u8?x-sign=435711cba94f178a5087966bda4a83e3&x-time=1708717380&is_vip=false&token=ac8bf1dae3d4bc7bae8fd86d25b65056b698a676
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
