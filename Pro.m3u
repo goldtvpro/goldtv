@@ -10,6 +10,10 @@ https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.co
 #EXTVLCOPT:http-referrer=https://2sport.tv/match/live-sporting-charleroi-vs-genk-1708717500
 https://livecdn-bp.rumsport.com/stream/44/chunks.m3u8?x-sign=435711cba94f178a5087966bda4a83e3&x-time=1708717380&is_vip=false&token=ac8bf1dae3d4bc7bae8fd86d25b65056b698a676
 
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE",real-sociedad-vs-villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://amzstream.tv/live/streaming-real-sociedad-vs-villarreal-1629341725.html
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F27%2Findex.m3u8&token=99fa159ea66a483966bdc3b670a66f3cc6eb3e98&is_vip=false&verify=1708711200-UKnFh0Cflf3LKuYGRwbCibz4gduJqzsZ8v7L69Jg4II%3D
 
 
 ##########################################################################
