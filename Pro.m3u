@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
+#EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", leverkusen-vs-fsv-mainz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://amzstream.tv/live/streaming
-https://cdnlive.n2olabs.pro/1629318022/index.m3u8
+#EXTVLCOPT:http-referrer=https://2sport.tv/match/live-bayer-04-leverkusen-vs-fsv-mainz-05-1708716600
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.com%2Fstream%2F3%2Findex.fmp4.m3u8&token=4248263c70de3a513616f0076dc401703ed31f69&is_vip=false&verify=1708711200-cCbsbN7qa2jBlFmgZnodA2%2FJYe%2F38enyqbPSardJCQQ%3D
 
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
