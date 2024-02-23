@@ -7,7 +7,7 @@ https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.co
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://amzstream.tv/live/
+#EXTVLCOPT:http-referrer=https://amzstream.tv/live/streaming-bayer-leverkusen-vs-mainz-05-1629344413.html
 https://livecdn.rumsport.com/stream/18/chunks.m3u8?token=99fa159ea66a483966bdc3b670a66f3cc6eb3e98&is_vip=false&verify=1708716720-ZJ9G3FnRtzsmmXWx4R0I5eTZCOZlPioIt7C0twqTpls%3D
 
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE", live sport test
