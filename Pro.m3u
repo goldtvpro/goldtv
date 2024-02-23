@@ -13,6 +13,7 @@ https://livecdn-bp.rumsport.com/stream/44/chunks.m3u8?x-sign=435711cba94f178a508
 #EXTINF:1 tvg-id="LIVE SPORT" tvg-logo="https://raw.githubusercontent.com/goldtvpro/goldtvpro/main/Logo.png" group-title="01 LIVE",real-sociedad-vs-villarreal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=
+https://mmfootball.cryptken.com/player?url=https%3A%2F%2Fpull.niues.live%2Flive%2Fstream-351530_lsd.m3u8%3Fauth_key%3D1708721650-0-0-001816263995b04996eeb55aa489c3fe%23skip#playing
 https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1708721650-0-0-001816263995b04996eeb55aa489c3fe#skip
 
 
